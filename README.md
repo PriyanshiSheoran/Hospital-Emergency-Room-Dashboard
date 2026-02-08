@@ -48,3 +48,4 @@ Hospital administrators
 Healthcare analysts
 
 Operational performance monitoring# Hospital-Emergency-Room-Dashboard
+![Hospital Room Dashboard](Dashboard.png)
